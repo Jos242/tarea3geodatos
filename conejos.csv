@@ -1,0 +1,74 @@
+Especie,Lugar,Fecha ,Hora,Código,Latitud,Longitud,Altitud ,Sexo ,HB,T,HF,E,Weight ,Preparado ,Cráneo ,Piel ,Huesos (esqueleto axial),Tejido
+Sylvilagus gabbi,"Isla Verde, Chilamate, Sarapiquí, Heredia. ",12-Dec-15,,JMM-001-2016,10.263883,-84.051616,103,Hembra ,380,20,65,43,1180,JMMora,SI,SI,NO,Si
+Sylvilagus gabbi,"Isla Verde, Chilamate, Sarapiquí, Heredia. ",4-Jan-16,2030 h,JMM-002-2016,10.263883,-84.051659,102,Macho,360,30,77,45, ,LARuedas ,SI,SI,SI,Si
+Sylvilagus hondurensis,"Palo Verde, parque nacional, Bagaces, Guanacaste",4-Jun-16,,JMM-003-2016,10.204046,-85.202183,15,Hembra ,390,40,85,56,1280,JMMora,SI,SI,SI,Si
+Sylvilagus dicei,"Los Cartagos, Santa Bárbara, Heredia",21-Jan-17,1820 h,JMM-001-2017,10.08557,-84.091236,2080,Macho,420,23,95,53,1398,JMMora,SI,SI,SI,Si
+Sylvilagus dicei,"Varablanca, Heredia, Heredia.",12-Mar-17,2300 h,JMM-002-2017,10.110531,-84.091817,1704,Hembra ,390,14,91,48,1300,JMMora,SI,SI,SI,Si
+Sylvilagus gabbi,"Chilamate, Sarapiquí, Heredia ",17-Mar-17,,JMM-003-2017,10.263969,-84.051653,101,Macho,340,19,71,41,830,JMMora,SI,si,si,si
+Sylvilagus gabbi,"Chilamate, Sarapiquí, Heredia ",17-Mar-17,2135 h,JMM-004-2017,10.2648,-84.052105,95,Macho,242,8,60,36,445,JMMora,si,si,si,si
+Sylvilagus gabbi,"Chilamate, Sarapiquí, Heredia ",17-Mar-17,,JMM-005-2017,10.264007,-84.050652,101,Hembra ,340,16,70,41,1300,JMMora,SI,SI,SI,Si
+Sylvilagus gabbi,"Chilamate, Sarapiquí, Heredia ",17-Mar-17,,JMM-006-2017,10.264007,-84.050652,114,Feto,96,,,,34,,,,,
+Sylvilagus gabbi,"Chilamate, Sarapiquí, Heredia ",17-Mar-17,,JMM-007-2017,10.264007,-84.050652,114,Feto,101,,,,39,,,,,
+Sylvilagus gabbi,"Chilamate, Sarapiquí, Heredia ",17-Mar-17,,JMM-008-2017,10.264007,-84.050652,114,Feto,98,,,,37,,,,,
+Sylvilagus dicei,"Cerro de la Muerte, bajando, cantón Orosi, Cartago. Cerca de la entrada al cantón de Pérez Zeledón. ",29-Mar-17,1000h,JMM-009-2017,9.33124,-83.42242,2894,,,,,,,,no,no,no,Si
+Sylvilagus gabbi,"Juan Viñas, Turrialba, Costa Rica",7-Apr-17,,JMM-010-2017,9.53587,-83.46118,,Cría,,,,,,,,,,
+Sylvilagus dicei,"Sacramento, San José de la Montaña, Barva, Heredia. ",7-Apr-17,,JMM-011-2017,10.0627,-84.0718,2249,Macho,336,24,89,__,1150 g,JMMora,SI,SI,Si,Si
+Sylvilagus gabbi,"Guacalito, Las Armenias, Upala, Alajuela",8-Apr-17,2230h,JMM-012-2017,10.48454,-85.06348,509,Macho,275,17,68,39,640,JMMora,Si,Si,Si,Si
+Sylvilagus gabbi,"Esterito, Poco Sol, San Carlos ",10-Apr-17,,JMM-013-2017,10.3227,-84.3025,75,Macho,331,10,70,44,880,JMMora,si,si,si,si
+Sylvilagus gabbi,"Esterito, Poco Sol, San Carlos ",10-Apr-17,,JMM-014-2017,10.3232,-84.3027,76,Hembra,361,13,74,44,1200,JMMora,si,si,si,si
+Sylvilagus hondurensis,"Chomes, Puntarenas ",10-Apr-17,,JMM-015-2017,10.0235,-84.5432,12,Macho,|,46,82,61,1080,JMMora,si,si,si,si
+Sylvilagus hondurensis,"Chomes, Puntarenas ",,,JMM-016-2017,10.023,-84.5435,11,,,,,,,,,,,
+Sylvilagus hondurensis,Rincón de la Vieja,12-Apr-17,,JMM-017-2017,10.4609,-85.213,698,,,,,60,,JMMora,Si,No,No ,Si
+Sylvilagus hondurensis,Rincón de la Vieja,12-Apr-17,,JMM-018-2017,10.4601,-85.2123,704,,,,,58,,JMMora,Si,No,No ,Si
+Sylvilagus hondurensis,Cañas ,20-Apr-17,,JMM-019-2017,10.2453,-85.0609,59,Macho,334,45,81,60,880,JMMora,Si,si,si,si
+Sylvilagus gabbi,"El Silencio, La Suiza, Turrialba",20-Apr-17, ,JMM-020-2017,9.522775,-83.36504,897,Hembra,357,9?,78,43,920,JMMora,si,si,si,si
+Sylvilagus hondurensis,Cañas ,20-Apr-17,,JMM-021-2017,10.2431,-85.0622,65,Macho,325,40,77,59,780,JMMora,SI,SI,SI,Si
+Sylvilagus hondurensis,Cañas ,20-Apr-17,,JMM-022-2017,10.2455,-85.0609,65,Macho,370,40,82,60,1078,JMMora,si,si,si,si
+Sylvilagus hondurensis,Cañas ,20-Apr-17, ,JMM-023-2017,10.2411,-85.0713,46,Hembra,326,40,80,59,870,JMMora,si,si,si,si
+Sylvilagus hondurensis,Rincón de la Vieja,26-May-17,1900h,JMM-024-2017,10.4628,-85.2057,809,Macho,380,40,84,60,1320,JMMora,Si,Si,Si,Si
+Sylvilagus dicei,"Varablanca, Heredia, Heredia.",,,JMM-025-2017,10.092836,-84.101743,1911,Hembra,250,15,55,33,230,,No,No,No,Si
+Sylvilagus hondurensis,"Chomes, Puntarenas. ??",10-Apr-17,,JMM-026-2017,10.023,-84.5435,11,Macho,380,45,85,65,1200,JMMora,SI,SI,SI,Si
+Sylvilagus gabbi,"Esterito, Poco Sol, San Carlos ",10-Apr-17,,JMM-027-2017,10.3232,-84.3027,76,Embrión,52,,,,,,,,,
+Sylvilagus gabbi,"Esterito, Poco Sol, San Carlos ",10-Apr-17,,JMM-028-2017,10.3232,-84.3027,76,Embrión,54,,,,,,,, ,
+Sylvilagus gabbi,"Esterito, Poco Sol, San Carlos ",10-Apr-17,,JMM-029-2017,10.3232,-84.3027,76,Embrión,53,,,,,,,,,
+Sylvilagus dicei,"Los Cartagos, Santa Bárbara, Heredia. Cordillera Central, 2080 m.  ",, ,JMM-030-2017,10.085537,-84.091236,2080, ,,22,88,51,>1000,,no,no,no,si
+Sylvilagus dicei,Cedral de Miramar ,28-Mar-18,,JMM-001-2018,10.124444,-84.403592,1082,Hembra,365,18,74,45,980 g,JMMora,si,si,si,si
+Sylvilagus dicei,"Fraijanes, Poás, Alajuela ",13-Apr-18,,JMM-002-2018,10.823136,-84.1144847,1770,cría ,228,13,56,29,175 g,,si,no,si,si 
+Sylvilagus dicei,"Guarumal, Candelaria de Naranjo ",12-Apr-18,,JMM-003-2018,10.0639,-84.251,1191,cría ,214,8,58,30,154 g,,No,No,No,Si 
+Sylvilagus gabbi,"Hone Creek, Limón ",18-Apr-18,,JMM-004-2018,9.3946343,-82.4742144,8,hembra,251,20,64,38,405 g,,,,,
+Sylvilagus gabbi,Pital de San Carlos ,28-May-18,,JMM-005-2018,10.2246513,-84.1952046,447,,,,,,,,Si,no,no,si
+Sylvilagus dicei,"Alto Palomo, Sarchí, Alajuela",7-Jul-18,,JMM-006-2018,10.1113,-84.1841,1931,Hembra,230,6,60,33,272 g,JMMora,,si,,si
+Sylvilagus gabbi,"Jicarito, Monterrey de San Carlos",19-Jul-18,,JMM-007-2018,10.3309,-84.3917,289,Macho,243,12,77,40,720,,,,,
+Sylvilagus gabbi,"Finca El Porvenir, Guatuzo",27-Jul-18,,JMM-008-2018,10.5011,-84.5014,47,Macho,344,12,80,43,580,,,,,
+Sylvilagus gabbi,"Las Delicias, Monterrey de San Carlos ",5-Aug-18,,JMM-009-2018,10.3507,-84.3825,212,Hembra,358,12,74,47,965 g,Si,Si,Si,Si,Si
+Sylvilagus hondurensis,"Cañas, Guanacaste",15-Aug-18,,JMM-010-2018,,,,Macho,370,42,79,47,1150 g,JMMora,si,,si,si
+Sylvilagus gabbi,Pital de San Carlos ,23-Aug-18,,JMM-011-2018,10.2748,-84.1644,140,Hembra,337,6,74,40,1040 g,,,,,
+Sylvilagus gabbi,Monterrey de San Carlos,30-Aug-18, ,JMM-012-2018,10.3319,-84.385,267,Hembra,360,16,80,48,1290 g,JMMora,Si,Si,Si,Si
+Sylvilagus gabbi,La Marina de San Carlos ,16-Aug-18,,JMM-013-2018,10.2243,-84.2242,421,Hembra,332,12,72,44,720 g,JMMora,Si,Si,Si,Si
+Sylvilagus hondurensis,Entre Cañas y Tilarán ,31-Aug-18,,JMM-014-2018,10.2827,-83.0308,321,Macho,337,36,86,52,1210 g,JMMora,Si,Si,Si,Si
+Orictolagus?,"El Bonito, Barra del Colorado ",22-Aug-18,,JMM-015-2018,,,,,,,,,,,,,,
+Sylvilagus gabbi,"Vereth, Laurel, Corredores, Puntarenas",13-Mar-21,,JMM-001-2019,8.2934,-82.561,19,Hembra,319,18,70,40,770 g,,,,,
+Sylvilagus gabbi,"Vereth, Laurel, Corredores, Puntarenas",13-Mar-21,,JMM-002-2019,8.2934,-82.561,19,Hembra,360,20,75,42,1010 g,JMMora,Si,Si,Si,Si
+Sylvilagus gabbi,San Carlos,18-Aug-19,,JMM-003-2019 ,10.2046,-84.2416,660,Hembra,336,12,71,37,620 más intestinos,No,No,No,No,Si
+Sylvilagus hondurensis,Aranjuez de Puntarenas ,25-Aug-19,,JMM-004-2019,10.0335,-84.4811,37,Macho,345,48,86,55,980 g,muy dañado,Si,No,no,Si
+Sylvilagus dicei,"San Vito, Coto Brus",20-Jul-19,,JMM-008-2019,8.52518,-82.52078,1069,Hembra,366,12,80,49,1280 g,JMMora,,,,Si
+Sylvilagus dicei,"San Vito, Coto Brus",20-Jul-19,,JMM-009-2019,8.52518,-82.52078,1069,Feto,88,4,16,8,22 g,JMMora,No,No,No,Si
+Sylvilagus dicei,"San Vito, Coto Brus",20-Jul-19,,JMM-010-2019,8.52518,-82.52078,1069,Feto,93,5,16,8,22 g,JMMora,No,No,No,Si
+Sylvilagus dicei,"San Vito, Coto Brus",20-Jul-19,,JMM-011-2019,8.52518,-82.52078,1069,Feto,92,4,16,9,23 g,JMMora,No,No,No,Si
+Sylvilagus gabbi,"Los Ángeles de Pocosol, San Carlos",18-Aug-19, ,JMM-012-2019 ,10.355911,-84.312141,121,Hembra,360,12,80,47,1150 g,JMMora,Si,Si,Si,Si
+Sylvilagus gabbi,"Naranjos Agrios, Tilarán, Guanacaste",5-Dec-19, ,JMM-013-2019,10.3235052,-84.5858043,570,Hembra,323,11,78,42,840 g,JMMora, ,,,si 
+Sylvilagus gabbi,San Carlos,18-Aug-19,,JMM-014-2019,10.355911,-84.312141,121,Embrión ,,,,,,,,,,
+Sylvilagus gabbi,"Monterrey, San Carlos ",23-Aug-20,,JMM-001-2020,10.3212,-84.3936,385,,200,5,51,29,185 g,,,,,
+Sylvilagus gabbi,Pital de San Carlos,9-Feb-21,,JMM-001-2021,10.3123,-84.1704,79,Macho ,319,18,70,40,770 g,,,,,
+Sylvilagus dicei,"El Brunca, Santa María de Buenos Aires, Osa",25-Feb-21,,JMM-002-2021,9.16397,-83.23086,1562,Macho ,397,12,91,49,1360 g,JMMora,Si,Si,Si,Si
+Sylvilagus gabbi,"La Trinidad, Puerto Viejo, Sarapiquí",4-Mar-21,,JMM-003-2021,10.26497,-83.59599,42,Hembra,385,16,75,49,1380 g,JMMora,Si,Si,Si,Si
+Sylvilagus gabbi,"La Trinidad, Puerto Viejo, Sarapiquí",4-Mar-21,,JMM-004-2021,10.26492,-83.596,41,Hembra,343,18,70,48,1080 g,JMMora,Si,Si,Si,Si
+Sylvilagus gabbi,"La Trinidad, Puerto Viejo, Sarapiquí",4-Mar-21,,JMM-005-2021,10.26496,-83.59591,42,Hembra,365,16,71,45,1280 g,,,,,
+Sylvilagus gabbi,"La Trinidad, Puerto Viejo, Sarapiquí",4-Mar-21,,JMM-006-2021,10.26496,-83.59591,42,,56,,,,6.8,,,,,
+Sylvilagus gabbi,"La Trinidad, Puerto Viejo, Sarapiquí",4-Mar-21,,JMM-007-2021,10.26496,-83.59591,42,,59,,,,7.8,,,,,
+Sylvilagus gabbi,"La Trinidad, Puerto Viejo, Sarapiquí",4-Mar-21,,JMM-008-2021,10.26496,-83.59591,42,,60,,,,7.6,,,,,
+Sylvilagus gabbi,"La Trinidad, Puerto Viejo, Sarapiquí",4-Mar-21,,JMM-009-2021,10.26499,-83.59597,40,Macho ,344,10,70,41,850,JMMora,No,Si,No,Si
+Sylvilagus hondurensis,"Tierras Morenas, Tilarán, Guanacaste",6-Mar-21,,JMM-010-2021,10.3406,-85.014,674,Hembra,365,52,80,55,1420,,,,,
+Sylvilagus hondurensis,"Tierras Morenas, Tilarán, Guanacaste",7-Mar-21,,JMM-011-2021,10.3406,-85.014,674,Hembra?,109,9,21,10,36,,,,,
+Sylvilagus hondurensis,"Tierras Morenas, Tilarán, Guanacaste",8-Mar-21,,JMM-012-2021,10.3406,-85.014,674,Hembra?,111,11,21,12,37,,,,,
+Sylvilagus hondurensis,"Tierras Morenas, Tilarán, Guanacaste",9-Mar-21,,JMM-013-2021,10.3406,-85.014,674,Hembra?,107,8,20,12,37,,,,,
