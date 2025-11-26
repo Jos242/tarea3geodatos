@@ -43,7 +43,7 @@ def load_data(path: str) -> pd.DataFrame:
 
 df = load_data("conejos.csv")
 
-st.title("Especimens de conejos recolectados")
+st.title("Especímenes de conejos recolectados")
 st.markdown(
     "Datos recolectados entre 2016 y 2021 durante un estudio de 5 años "
     "para describir una nueva especie de conejo en Costa Rica"
