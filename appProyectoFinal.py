@@ -315,7 +315,7 @@ with tab_lessons:
     st.markdown(
         "- Pandas limpia, Streamlit muestra: normalizar columnas, convertir tipos y manejar NaNs evita bugs de filtros.\n"
         "- Estado (session_state): necesario para resetear filtros y mantener la UI consistente.\n"
-        "- Cache (`st.cache_data`): acelera recargas, sobre todo si luego agregas joins, shapefiles o calculos pesados.\n"
+        "- Cache (st.cache_data): acelera recargas, sobre todo si se usan joins, shapefiles o calculos pesados.\n"
     )
 
     st.markdown("### 3) Usando estos datos para el proyecto")
